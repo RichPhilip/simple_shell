@@ -15,11 +15,11 @@ int add_numbers(int a, int b)
 }
 
 /**
- * main - Entry point of the program
+ * betty - Entry point of the program
  *
  * Return: 0 on success
  */
-int main(void)
+int betty(void)
 {
 	int x = 10;
 	int y = 20;
